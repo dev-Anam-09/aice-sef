@@ -1,0 +1,3 @@
+hade: this is a web developer. he is currently in beginner level of java script
+booyct: This is a software developer, althoug he is just also learning. he is trying his best.
+anam: this is a software and web developer that is try his very best to learn a digital skill.
