@@ -1,0 +1,3 @@
+Mobile money is a financial technology service that allows users to store, send, and receive money, as well as pay bills, directly through a mobile phone without needing a traditional bank account. Transactions are typically secured via text messages or mobile apps and managed by telecommunication companies or financial institutions.
+
+In Africa, mobile money has revolutionized financial inclusion by giving tens of millions of unbanked individuals access to digital payments, peer-to-peer transfers, and micro-loans through widespread networks like M-Pesa. Today, Sub-Saharan Africa is the global leader in mobile money adoption, accounting for the majority of the world's total transaction volume and active accounts.
